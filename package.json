@@ -18,5 +18,10 @@
   "bugs": {
     "url": "https://github.com/Chioz1111/BigBugsProject/issues"
   },
-  "homepage": "https://github.com/Chioz1111/BigBugsProject#readme"
+  "homepage": "https://github.com/Chioz1111/BigBugsProject#readme",
+  "devDependencies": {
+    "jasmine-spec-reporter": "^4.2.1",
+    "protractor": "^5.4.1",
+    "protractor-beautiful-reporter": "^1.2.5"
+  }
 }
