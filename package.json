@@ -1,0 +1,22 @@
+{
+  "name": "bigbugsframework",
+  "version": "1.0.0",
+  "description": "This is for BigBug$ framework.",
+  "main": "index.js",
+  "scripts": {
+    "test": "protractor conf.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chioz1111/BigBugsProject.git"
+  },
+  "keywords": [
+    "protractor"
+  ],
+  "author": "BigBug$",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chioz1111/BigBugsProject/issues"
+  },
+  "homepage": "https://github.com/Chioz1111/BigBugsProject#readme"
+}
